@@ -1,7 +1,7 @@
 ---
 title: "Machine Learning Assignment"
-author: "Kanchan Vyas"
-date: "10/22/2020"
+author: "Ramsha Samreen"
+date: "10/24/2020"
 output:
   html_document: default
   pdf_document: default
